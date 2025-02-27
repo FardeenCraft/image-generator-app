@@ -17,7 +17,7 @@ A simple web-based image generator that allows users to enter a keyword and gene
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/image-generator-app.git
+   git clone https://github.com/FardeenCraft/image-generator-app.git
    ```
 2. Navigate to the project folder:
    ```sh
